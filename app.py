@@ -5,6 +5,9 @@ import pickle
 import pandas as pd
 
 app = Flask(__name__)
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
+
 model = pickle.load(open("flight_rf.pkl", "rb"))
 
 
