@@ -1,4 +1,5 @@
 from flask import Flask, request, render_template
+pip install flask flask-cors
 from flask_cors import cross_origin
 import sklearn
 import pickle
