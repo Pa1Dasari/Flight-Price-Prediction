@@ -33,4 +33,4 @@ The main aim of the project is to predict the price of the airline ticket from s
 ## Drive Link https://drive.google.com/drive/folders/1l2yoKMh7JouVPZVIv_eVShdgAEePayMp?usp=sharing
 
 # Help me improve
-## Hey readers, please raise an issue if you find any bug.I will address as soon as possible.
+Hey readers, please raise an issue if you find any bug.I will address as soon as possible.
